@@ -25,3 +25,4 @@ GitHub repo → Settings → Webhooks → Add webhook
 
 - Build trigger: GitHub hook trigger for GITScm polling
 - Pipeline: SCM → Git → this repo URL
+test1
